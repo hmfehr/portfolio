@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Hunter Fehr",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Active duty veteran of the U.S. Army. I'm a head strong individual who takes on challenges head on and will not quit till the outcome is reached. I strive to be the best singe father of my daughter and provide the life and oppurtunities she deserves. Coding has been one of my greatest learning challenges but strive to become better everyday and to get on awesome development teams to help the greater good of the people and its community." ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/hmfehr?tab=repositories",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
+          "name": "Linkedin",
           "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
